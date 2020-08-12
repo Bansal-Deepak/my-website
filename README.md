@@ -6,8 +6,4 @@ to check if commit is added
 checking more
 this is present only in new branch
 NEW CHANGES FROM LOCAL NEW-BRANCH
-<<<<<<< HEAD
-REMOTE CHANGES BEFORE REBASE
-=======
 LOCAL CHANGES
->>>>>>> updating index and readme in local master
